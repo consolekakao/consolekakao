@@ -27,11 +27,11 @@
 
 ### Project
 
-- [DiscordBot]: https://github.com/consolekakao/DiscordBot
+- [DiscordBot](https://github.com/consolekakao/DiscordBot)
 
-- [MiniERP]: https://github.com/consolekakao/react-client
+- [MiniERP](https://github.com/consolekakao/react-client)
 
-- [ImageQuize]: https://github.com/consolekakao/imagequize
+- [ImageQuize](https://github.com/consolekakao/imagequize)
 
   
 
