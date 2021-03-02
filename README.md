@@ -11,6 +11,10 @@
 - University : 부산 외국어대학교 컴퓨터공학과
 - Blog : https://velog.io/@console
 
+### Company
+
+- 2020.03 ~ HEBEES
+
 ------
 
 
