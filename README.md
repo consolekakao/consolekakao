@@ -20,7 +20,6 @@
 ### Company
 
 - 2021.03 ~ 2021.05 HEBEES
-- 2021.06 ~ ChainLabs 
 ------
 
 
