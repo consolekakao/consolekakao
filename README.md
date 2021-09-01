@@ -12,7 +12,6 @@
 
 - email : console@kakao.com
 - Birth : 1997.03
-- Birth : 1997.03
 - University : 부산 외국어대학교 컴퓨터공학과
 - Blog : https://velog.io/@console
 
