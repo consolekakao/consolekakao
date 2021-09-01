@@ -26,8 +26,6 @@
 
 - [DiscordBot](https://github.com/consolekakao/DiscordBot) 실제 서비스중인 디스코드 배틀그라운드 전적 검색 봇.
 
-- [MiniERP](https://github.com/consolekakao/react-client) 리액트를 이용한 CRUD 게시판.
-
 - [ImageQuize](https://github.com/consolekakao/imagequize) JSP를 이용한 이미지 퀴즈사이트.
 
   
