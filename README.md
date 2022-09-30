@@ -13,7 +13,7 @@
 - email : console@kakao.com
 - Birth : 1997.03
 - University : 부산 외국어대학교 컴퓨터공학과
-- Blog : https://velog.io/@console
+- Blog : https://consolekakao.github.io/
 
 ### Company
 
@@ -22,16 +22,7 @@
 ------
 
 
-### Project
-
-- [DiscordBot](https://github.com/consolekakao/DiscordBot) 실제 서비스중인 디스코드 배틀그라운드 전적 검색 봇.
-
-- [ImageQuize](https://github.com/consolekakao/imagequize) JSP를 이용한 이미지 퀴즈사이트.
-
-  
-------
-
-![TS](https://github-readme-stats.vercel.app/api?username=consolekakao&show_icons=true&theme=gradient)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=consolekakao&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=consolekakao&layout=compact)
 
 
 
