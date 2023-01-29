@@ -6,15 +6,15 @@
 
 ### Info
 
+- Blog : https://bdev.tistory.com
 - email : console@kakao.com
 - Birth : 1997.03
 - University : 부산 외국어대학교 컴퓨터공학과
-- Blog : https://bdev.tistory.com
 
 ### Company
 
 - 2021.03 ~ 2021.05 HEBEES FrontEnd
-- 2021.08 ~ Cargocall FrontEnd
+- 2021.08 ~ Cargocall B2BPlatform FrontEnd
 ------
 
 
