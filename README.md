@@ -1,6 +1,6 @@
 #### Thank you for visiting my Github!
 
-본업은 Web과 App을 만드는 프론트엔드 개발자고 사람구하기 귀찮아서 직접 백엔드를 만집니다.
+어제보다는 코드 잘짜는 개발자.
 
 
 ## Info
