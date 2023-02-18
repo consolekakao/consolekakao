@@ -1,6 +1,8 @@
 #### Thank you for visiting my Github!
 
-어제보다는 코드 잘짜는 개발자.
+어제보단 코드 잘짜는 ENFP개발자 윤지환
+
+진득하게 앉아있진 못하지만 아무튼 해결은 하는 개발자
 
 
 ## Info
@@ -41,9 +43,6 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=consolekakao&layout=compact)
-
-
-
 
 
 
