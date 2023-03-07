@@ -15,7 +15,7 @@
 ## Company
 
 - 2021.03 ~ 2021.05 HEBEES FrontEnd
-- 2021.08 ~ Cargocall B2B Platform FrontEnd
+- 2021.08 ~ 2023.03 Cargocall B2B Platform FrontEnd
 
 ## Skill
 
