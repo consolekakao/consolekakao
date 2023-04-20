@@ -12,9 +12,9 @@
 
 ## Company
 
-- 2021.03 ~ 2021.05 HEBEES FrontEnd
-- 2021.08 ~ 2023.03 Cargocall B2B Platform FrontEnd
-- 2023.04 ~         TPZ Studio FrontEnd/Application
+- 2021.03 ~ 2021.05 HEBEES FrontEnd 담당
+- 2021.08 ~ 2023.03 주식회사 카고콜 B2B 플랫폼 FrontEnd 담당
+- 2023.04 ~         TPZ Studio FrontEnd / RN어플리케이션 담당
 
 ## Skill
 
