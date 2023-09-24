@@ -2,13 +2,16 @@
 
 
 
-
 ## Info
 
 - Blog : https://bdev.tistory.com
 - email : console@kakao.com
 - Birth : 1997.03
 
+
+## University
+
+- 부산외국어대학교 컴퓨터공학과
 
 ## Company
 
