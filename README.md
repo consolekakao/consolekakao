@@ -17,7 +17,8 @@
 
 - 2021.03 ~ 2021.05 HEBEES FrontEnd 담당
 - 2021.08 ~ 2023.03 주식회사 카고콜 B2B 플랫폼 FrontEnd 담당
-- 2023.04 ~         TPZ Studio Application 담당
+- 2023.04 ~ 2023.12 TPZ Studio Application 담당
+- 2023.12 ~ 자동차 관련 도메인 재직중
 
 ## Skill
 
