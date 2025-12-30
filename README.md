@@ -4,7 +4,7 @@
 
 ## Info
 
-- Blog : https://bdev.tistory.com
+- Blog : https://consolekakao.github.io
 - email : console@kakao.com
 - Birth : 1997.03
 
@@ -15,9 +15,9 @@
 
 ## Company
 
-- 2021.08 ~ 2023.03 주식회사 카고콜 B2B 플랫폼 FrontEnd 담당
-- 2023.04 ~ 2023.12 TPZ Studio Application 담당
-- 2023.12 ~ 아이브이에이치
+- 2021.08 ~ 2023.03 Cargocall FE
+- 2023.04 ~ 2023.12 THE PLAZA FE
+- 2023.12 ~ iVH Software/Hardware Developer
 
 ## Skill
 
